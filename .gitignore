@@ -31,6 +31,9 @@
 # IntelliJ
 /out/
 
+# old stuff
+/projects-EliseJava/
+
 # Maven
 /target/
 /logs/
